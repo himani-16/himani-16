@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @himani-16
+- 👋 Hi, I’m Himani Singla
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Angular and continuing learning...
 - 📫 Reach me at himanisingla16@gmail.com
