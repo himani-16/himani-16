@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Himani Singla
-- 👀 I’m interested in coding
+- University of Dayton graduate with a Master's of Science in Computer Science(Spring 2021)
+- 👀 I’m passionate about coding and developing products that will bring value to others
 - 🌱 I’m currently learning Angular and continuing learning...
 - 📫 Reach me at himanisingla16@gmail.com
 
